@@ -11,3 +11,10 @@
 ```docker-compose up -d```
 6. Levantar proyecto
 ```npm run start:dev```
+
+
+# INSTALLED
+```
+npm i @nestjs/config
+npm i @nestjs/typeorm typeorm pg
+```
