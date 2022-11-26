@@ -18,4 +18,6 @@
 npm i @nestjs/config
 npm i @nestjs/typeorm typeorm pg
 npm i class-validator class-transformer
+npm i uuid
+npm i -D @types/uuid
 ```
