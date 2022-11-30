@@ -22,4 +22,9 @@ npm i uuid
 npm i -D @types/uuid
 npm i -D @types/multer
 npm i @nestjs/serve-static
+npm i bcrypt
+npm i -D @types/bcrypt
+npm i @nestjs/passport passport
+npm i @nestjs/jwt passport-jwt
+npm i -D @types/passport-jwt
 ```
